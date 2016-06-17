@@ -1,0 +1,1 @@
+Debianizar es agarrar un codigo fuente y aplicarle las politicas de debian que nos permiten compilar el codigo fuente y a su vez integrarlo en un paquete binario .deb. sitio oficial https://www.debian.org/doc/debian-policy/
